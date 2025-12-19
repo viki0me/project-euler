@@ -24,7 +24,6 @@ print(brute_force())  #233168
 ### solution 2: efficient formula
 ```python
 def arithmetic_sum(n, step):
-    """Sum of arithmetic series: step, 2*step, ..., up to n*step"""
     m = n // step
     return step * m * (m + 1) // 2
 
@@ -46,7 +45,6 @@ mathematical formula (O(1)):   0.0000001s
 ## 🔍 key notes
 1. **brute force method works** for small limits but scales poorly
 2. **mathematical insight** reduces O(n) to O(1)
-4. Always consider the **inclusion-exclusion principle** for "or" conditions
 
 ## ⭐️ answer
 ```
