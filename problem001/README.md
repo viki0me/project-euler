@@ -53,7 +53,7 @@ mathematical formula:   0.000027s
 
 ---
 
-*solved on: 18-12-2025*  
+*solved on: 18/12/2025*  
 *time to solve: < 5 minutes*  
 *difficulty: 5% (Project Euler rating)*  
 
