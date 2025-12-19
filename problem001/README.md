@@ -38,8 +38,8 @@ print(efficient_solution())  # 233168
 
 ## 💡 performance comparison
 ```
-brute force (1000 iterations): 0.0002s
-mathematical formula (O(1)):   0.0000001s
+brute force (1000 iterations): 0.0001s
+mathematical formula:   0.000027s
 ```
 
 ## 🔍 key notes
